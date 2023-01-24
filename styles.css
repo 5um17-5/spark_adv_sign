@@ -1,0 +1,27 @@
+body{
+    font-size: 14px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.second_column strong{
+    color: green;
+}
+
+.second_column{
+    padding-left: 25px;
+}
+
+
+.tag{
+    width: 640px;
+}
+
+.content{
+    width: 640px;
+    font-size: 12px;
+}
+
+.para1{
+    width: 640px;
+    font-size: 12px;
+}
